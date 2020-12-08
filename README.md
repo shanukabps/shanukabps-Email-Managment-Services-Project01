@@ -1,4 +1,4 @@
-# Email-Managment-Services-Project02
+# Email-Managment-Services-Project01
 
 #First clone the project
 
