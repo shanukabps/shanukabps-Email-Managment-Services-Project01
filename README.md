@@ -7,7 +7,8 @@
 
 For development, you will only need Node.js and a node global package, npm, installed in your environement.
 
-
+##### if you want to mangodb account password request me 
+##### database email and password inclede server,js file as comments
 
 ## Install
 
